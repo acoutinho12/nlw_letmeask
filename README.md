@@ -1,3 +1,15 @@
+# Letmeask
+Next Level Week Together
+
+Letmeask is a sample WEB application of a chat app using : 
+- [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
+- [SASS](https://sass-lang.com/)
+- [React](https://reactjs.org)
+- [Firebase](https://firebase.google.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+The project can be tested on the link [Letmeask](https://nlw-letmeask-855c6.web.app/) that was deployed using [Firebase Hosting](https://firebase.google.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
