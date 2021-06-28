@@ -1,6 +1,9 @@
 # Letmeask
 Next Level Week Together
 
+![Captura de Tela 2021-06-28 às 16 48 35](https://user-images.githubusercontent.com/35736027/123697162-f7114280-d832-11eb-9d6a-5bd687a1460a.png)
+
+
 Letmeask is a sample WEB application of a chat app using : 
 - [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 - [SASS](https://sass-lang.com/)
